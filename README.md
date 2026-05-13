@@ -34,9 +34,13 @@ SkillDock is a desktop control center for AI coding tools. It keeps your local S
 
 View every installed skill, filter by status, inspect source metadata, and see Git collaboration state at a glance.
 
-![Skills list](docs/images/skill_list.png)
+<p align="center">
+  <img src="docs/images/skill_list.png" alt="Skills list" width="640" />
+</p>
 
-![Skill details and tool sync](docs/images/skill_detail.png)
+<p align="center">
+  <img src="docs/images/skill_detail.png" alt="Skill details and tool sync" width="640" />
+</p>
 
 SkillDock preserves source information and tool enablement per skill, so a team-maintained skill can stay connected to its upstream repository while still being applied selectively to Claude Code, Codex, Cursor, Gemini CLI, Windsurf, and other tools.
 
@@ -44,29 +48,41 @@ SkillDock preserves source information and tool enablement per skill, so a team-
 
 Manage MCP servers in the same workspace as skills. SkillDock scans supported app config files, shows the server command and source, and lets you enable or disable server sync per tool.
 
-![SkillDock MCP list](docs/images/mcp_list.png)
+<p align="center">
+  <img src="docs/images/mcp_list.png" alt="SkillDock MCP list" width="640" />
+</p>
 
-![MCP server details and tools](docs/images/mcp_detail.png)
+<p align="center">
+  <img src="docs/images/mcp_detail.png" alt="MCP server details and tools" width="640" />
+</p>
 
 ## Tools
 
 SkillDock detects supported coding tools, shows their skill and MCP config locations, and gives you one place to manage sync targets.
 
-![Supported tools](docs/images/tools_list.png)
+<p align="center">
+  <img src="docs/images/tools_list.png" alt="Supported tools" width="840" />
+</p>
 
 ## Install
 
 Install skills from marketplace sources, Git repositories, or local folders. SkillDock also separates MCP marketplace discovery so MCP servers can be installed and managed through their own lifecycle.
 
-![Install skills from marketplace](docs/images/skill_install.png)
+<p align="center">
+  <img src="docs/images/skill_install.png" alt="Install skills from marketplace" width="840" />
+</p>
 
-![Install MCP servers](docs/images/mcp_install.png)
+<p align="center">
+  <img src="docs/images/mcp_install.png" alt="Install MCP servers" width="840" />
+</p>
 
 ## Settings
 
 Configure the app storage directory, default editor, update checks, default install behavior, and tool support status.
 
-![SkillDock settings](docs/images/settings.png)
+<p align="center">
+  <img src="docs/images/settings.png" alt="SkillDock settings" width="640" />
+</p>
 
 ## Supported Tools
 

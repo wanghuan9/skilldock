@@ -6,7 +6,7 @@
 - “Apple 无法验证 ‘SkillDock’ 是否包含可能危害 Mac 安全或泄漏隐私的恶意软件。”
 - 系统设置里显示“已阻止 ‘SkillDock’ 以保护 Mac。”
 
-![SkillDock 打开异常提示](images/install-open-warning.png)
+<img src="images/install-open-warning.png" width="520" alt="SkillDock 打开异常提示" />
 
 ## 原因
 
@@ -29,7 +29,7 @@ Apple 官方说明：<https://support.apple.com/guide/mac-help/mchleab3a043/mac>
 7. 按提示输入登录密码，或使用 Touch ID 确认。
 8. 再次打开 SkillDock。
 
-![在隐私与安全性中允许打开 SkillDock](images/install-open-anyway.png)
+<img src="images/install-open-anyway.png" width="720" alt="在隐私与安全性中允许打开 SkillDock" />
 
 确认一次后，macOS 会把 SkillDock 记录为例外，之后通常可以像普通应用一样双击打开。
 
